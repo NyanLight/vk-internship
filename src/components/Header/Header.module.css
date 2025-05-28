@@ -1,0 +1,10 @@
+.header {
+    background-color: #0077FF;
+    display: flex;
+    align-items: center;
+    font-family: sans-serif;
+    color: white;
+    border-radius: 0 0 20px 20px;
+    font-size: 1rem;
+    padding: 0 2%;
+}
