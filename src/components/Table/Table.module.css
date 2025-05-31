@@ -1,0 +1,37 @@
+.table {
+  background-color: rgb(238, 238, 238);
+  box-shadow: 3px 4px 16px 3px rgba(168, 162, 162, 0.4);
+  margin: auto;
+  font-family: "Roboto", sans-serif;
+  border-collapse: collapse;
+}
+
+.heading {
+  background-color: #0077FF;
+  color: white;
+  padding: 1rem;
+  font-size: 1.4rem;
+}
+
+.data {
+  color: rgb(44, 44, 44);
+  font-size: 1.2rem;
+  padding: 1rem;
+  text-align: center;
+  overflow: hidden;
+}
+
+.row {
+  border-top: 1px solid rgb(206, 205, 205);
+} 
+
+.row:first-of-type {
+  border-top: none;
+}
+
+.row:last-of-type {
+  border-bottom: 1px solid rgb(158, 156, 156);
+} 
+
+
+
