@@ -1,0 +1,1564 @@
+{
+  "chunk1": {
+    "games": [
+      {
+        "id": 1,
+        "title": "The Legend of Zelda: Ocarina of Time",
+        "publisher": "Nintendo",
+        "developer": "Nintendo EAD",
+        "criticsScore": "99",
+        "playersScore": "9.1"
+      },
+      {
+        "id": 2,
+        "title": "Tony Hawk's Pro Skater 2",
+        "publisher": "Activision",
+        "developer": "Neversoft",
+        "criticsScore": "98",
+        "playersScore": "9.0"
+      },
+      {
+        "id": 3,
+        "title": "Grand Theft Auto IV",
+        "publisher": "Rockstar Games",
+        "developer": "Rockstar North",
+        "criticsScore": "98",
+        "playersScore": "8.5"
+      },
+      {
+        "id": 4,
+        "title": "SoulCalibur",
+        "publisher": "Namco",
+        "developer": "Project Soul",
+        "criticsScore": "98",
+        "playersScore": "8.7"
+      },
+      {
+        "id": 5,
+        "title": "Super Mario Galaxy",
+        "publisher": "Nintendo",
+        "developer": "Nintendo EAD Tokyo",
+        "criticsScore": "97",
+        "playersScore": "9.0"
+      },
+      {
+        "id": 6,
+        "title": "Super Mario Galaxy 2",
+        "publisher": "Nintendo",
+        "developer": "Nintendo EAD Tokyo",
+        "criticsScore": "97",
+        "playersScore": "9.1"
+      },
+      {
+        "id": 7,
+        "title": "Red Dead Redemption 2",
+        "publisher": "Rockstar Games",
+        "developer": "Rockstar Studios",
+        "criticsScore": "97",
+        "playersScore": "8.7"
+      },
+      {
+        "id": 8,
+        "title": "Grand Theft Auto V",
+        "publisher": "Rockstar Games",
+        "developer": "Rockstar North",
+        "criticsScore": "97",
+        "playersScore": "8.3"
+      },
+      {
+        "id": 9,
+        "title": "Disco Elysium: The Final Cut",
+        "publisher": "ZA/UM",
+        "developer": "ZA/UM",
+        "criticsScore": "97",
+        "playersScore": "8.9"
+      },
+      {
+        "id": 10,
+        "title": "The Legend of Zelda: Breath of the Wild",
+        "publisher": "Nintendo",
+        "developer": "Nintendo EPD",
+        "criticsScore": "97",
+        "playersScore": "8.7"
+      },
+      {
+        "id": 11,
+        "title": "Metroid Prime",
+        "publisher": "Nintendo",
+        "developer": "Retro Studios",
+        "criticsScore": "97",
+        "playersScore": "9.0"
+      },
+      {
+        "id": 12,
+        "title": "Perfect Dark",
+        "publisher": "Nintendo",
+        "developer": "Rare",
+        "criticsScore": "97",
+        "playersScore": "8.4"
+      },
+      {
+        "id": 13,
+        "title": "BioShock",
+        "publisher": "2K Games",
+        "developer": "Irrational Games",
+        "criticsScore": "96",
+        "playersScore": "8.9"
+      },
+      {
+        "id": 14,
+        "title": "Half-Life 2",
+        "publisher": "Valve",
+        "developer": "Valve",
+        "criticsScore": "96",
+        "playersScore": "9.2"
+      },
+      {
+        "id": 15,
+        "title": "Resident Evil 4",
+        "publisher": "Capcom",
+        "developer": "Capcom",
+        "criticsScore": "96",
+        "playersScore": "9.0"
+      },
+      {
+        "id": 16,
+        "title": "Mass Effect 2",
+        "publisher": "Electronic Arts",
+        "developer": "BioWare",
+        "criticsScore": "96",
+        "playersScore": "8.8"
+      },
+      {
+        "id": 17,
+        "title": "The Elder Scrolls V: Skyrim",
+        "publisher": "Bethesda",
+        "developer": "Bethesda Game Studios",
+        "criticsScore": "94",
+        "playersScore": "8.5"
+      },
+      {
+        "id": 18,
+        "title": "Portal 2",
+        "publisher": "Valve",
+        "developer": "Valve",
+        "criticsScore": "95",
+        "playersScore": "9.1"
+      },
+      {
+        "id": 19,
+        "title": "Persona 5 Royal",
+        "publisher": "Atlus",
+        "developer": "Atlus",
+        "criticsScore": "95",
+        "playersScore": "8.8"
+      },
+      {
+        "id": 20,
+        "title": "The Witcher 3: Wild Hunt",
+        "publisher": "CD Projekt",
+        "developer": "CD Projekt Red",
+        "criticsScore": "93",
+        "playersScore": "9.4"
+      }
+    ],
+    "next": "http://localhost:3000/chunk2"
+  },
+  "chunk2": {
+    "games": [
+      {
+        "id": 21,
+        "title": "The Legend of Zelda: Ocarina of Time",
+        "publisher": "Nintendo",
+        "developer": "Nintendo EAD",
+        "criticsScore": "99",
+        "playersScore": "9.1"
+      },
+      {
+        "id": 22,
+        "title": "Tony Hawk's Pro Skater 2",
+        "publisher": "Activision",
+        "developer": "Neversoft",
+        "criticsScore": "97",
+        "playersScore": "8.9"
+      },
+      {
+        "id": 23,
+        "title": "Grand Theft Auto IV",
+        "publisher": "Rockstar Games",
+        "developer": "Rockstar North",
+        "criticsScore": "96",
+        "playersScore": "8.3"
+      },
+      {
+        "id": 24,
+        "title": "SoulCalibur",
+        "publisher": "Namco",
+        "developer": "Project Soul",
+        "criticsScore": "95",
+        "playersScore": "8.7"
+      },
+      {
+        "id": 25,
+        "title": "Super Mario Galaxy",
+        "publisher": "Nintendo",
+        "developer": "Nintendo EAD Tokyo",
+        "criticsScore": "93",
+        "playersScore": "8.9"
+      },
+      {
+        "id": 26,
+        "title": "Super Mario Galaxy 2",
+        "publisher": "Nintendo",
+        "developer": "Nintendo EAD Tokyo",
+        "criticsScore": "97",
+        "playersScore": "8.9"
+      },
+      {
+        "id": 27,
+        "title": "Red Dead Redemption 2",
+        "publisher": "Rockstar Games",
+        "developer": "Rockstar Studios",
+        "criticsScore": "96",
+        "playersScore": "8.7"
+      },
+      {
+        "id": 28,
+        "title": "Grand Theft Auto V",
+        "publisher": "Rockstar Games",
+        "developer": "Rockstar North",
+        "criticsScore": "95",
+        "playersScore": "8.2"
+      },
+      {
+        "id": 29,
+        "title": "Disco Elysium: The Final Cut",
+        "publisher": "ZA/UM",
+        "developer": "ZA/UM",
+        "criticsScore": "94",
+        "playersScore": "8.7"
+      },
+      {
+        "id": 30,
+        "title": "The Legend of Zelda: Breath of the Wild",
+        "publisher": "Nintendo",
+        "developer": "Nintendo EPD",
+        "criticsScore": "93",
+        "playersScore": "8.7"
+      },
+      {
+        "id": 31,
+        "title": "Metroid Prime",
+        "publisher": "Nintendo",
+        "developer": "Retro Studios",
+        "criticsScore": "97",
+        "playersScore": "8.9"
+      },
+      {
+        "id": 32,
+        "title": "Perfect Dark",
+        "publisher": "Nintendo",
+        "developer": "Rare",
+        "criticsScore": "96",
+        "playersScore": "8.2"
+      },
+      {
+        "id": 33,
+        "title": "BioShock",
+        "publisher": "2K Games",
+        "developer": "Irrational Games",
+        "criticsScore": "94",
+        "playersScore": "8.9"
+      },
+      {
+        "id": 34,
+        "title": "Half-Life 2",
+        "publisher": "Valve",
+        "developer": "Valve",
+        "criticsScore": "93",
+        "playersScore": "9.1"
+      },
+      {
+        "id": 35,
+        "title": "Resident Evil 4",
+        "publisher": "Capcom",
+        "developer": "Capcom",
+        "criticsScore": "92",
+        "playersScore": "8.8"
+      },
+      {
+        "id": 36,
+        "title": "Mass Effect 2",
+        "publisher": "Electronic Arts",
+        "developer": "BioWare",
+        "criticsScore": "96",
+        "playersScore": "8.8"
+      },
+      {
+        "id": 37,
+        "title": "The Elder Scrolls V: Skyrim",
+        "publisher": "Bethesda",
+        "developer": "Bethesda Game Studios",
+        "criticsScore": "93",
+        "playersScore": "8.4"
+      },
+      {
+        "id": 38,
+        "title": "Portal 2",
+        "publisher": "Valve",
+        "developer": "Valve",
+        "criticsScore": "93",
+        "playersScore": "8.9"
+      },
+      {
+        "id": 39,
+        "title": "Persona 5 Royal",
+        "publisher": "Atlus",
+        "developer": "Atlus",
+        "criticsScore": "92",
+        "playersScore": "8.8"
+      },
+      {
+        "id": 40,
+        "title": "The Witcher 3: Wild Hunt",
+        "publisher": "CD Projekt",
+        "developer": "CD Projekt Red",
+        "criticsScore": "89",
+        "playersScore": "9.3"
+      }
+    ],
+    "next": "http://localhost:3000/chunk3"
+  },
+  "chunk3": {
+    "games": [
+      {
+        "id": 41,
+        "title": "The Legend of Zelda: Ocarina of Tim",
+        "publisher": "Nintendo",
+        "developer": "Nintendo EAD",
+        "criticsScore": "99",
+        "playersScore": "8.9"
+      },
+      {
+        "id": 42,
+        "title": "Tony Hawk's Pro Skater",
+        "publisher": "Activision",
+        "developer": "Neversoft",
+        "criticsScore": "96",
+        "playersScore": "8.9"
+      },
+      {
+        "id": 43,
+        "title": "Grand Theft Auto IV",
+        "publisher": "Rockstar Games",
+        "developer": "Rockstar North",
+        "criticsScore": "94",
+        "playersScore": "8.2"
+      },
+      {
+        "id": 44,
+        "title": "SoulCalibur 4",
+        "publisher": "Namco",
+        "developer": "Project Soul",
+        "criticsScore": "92",
+        "playersScore": "8.5"
+      },
+      {
+        "id": 45,
+        "title": "Super Mario Galaxy",
+        "publisher": "Nintendo",
+        "developer": "Nintendo EAD Tokyo",
+        "criticsScore": "89",
+        "playersScore": "8.9"
+      },
+      {
+        "id": 46,
+        "title": "Super Mario Galaxy 2",
+        "publisher": "Nintendo",
+        "developer": "Nintendo EAD Tokyo",
+        "criticsScore": "97",
+        "playersScore": "8.8"
+      },
+      {
+        "id": 47,
+        "title": "Red Dead Redemption 2",
+        "publisher": "Rockstar Games",
+        "developer": "Rockstar Studios",
+        "criticsScore": "95",
+        "playersScore": "8.5"
+      },
+      {
+        "id": 48,
+        "title": "Grand Theft Auto V",
+        "publisher": "Rockstar Games",
+        "developer": "Rockstar North",
+        "criticsScore": "93",
+        "playersScore": "8.2"
+      },
+      {
+        "id": 49,
+        "title": "Disco Elysium: The Final Cut",
+        "publisher": "ZA/UM",
+        "developer": "ZA/UM",
+        "criticsScore": "91",
+        "playersScore": "8.6"
+      },
+      {
+        "id": 50,
+        "title": "The Legend of Zelda: Breath of the Wild",
+        "publisher": "Nintendo",
+        "developer": "Nintendo EPD",
+        "criticsScore": "89",
+        "playersScore": "8.5"
+      },
+      {
+        "id": 51,
+        "title": "Metroid Prime",
+        "publisher": "Nintendo",
+        "developer": "Retro Studios",
+        "criticsScore": "97",
+        "playersScore": "8.9"
+      },
+      {
+        "id": 52,
+        "title": "Perfect Dark",
+        "publisher": "Nintendo",
+        "developer": "Rare",
+        "criticsScore": "95",
+        "playersScore": "8.1"
+      },
+      {
+        "id": 53,
+        "title": "BioShock",
+        "publisher": "2K Games",
+        "developer": "Irrational Games",
+        "criticsScore": "92",
+        "playersScore": "8.7"
+      },
+      {
+        "id": 54,
+        "title": "Half-Life 2",
+        "publisher": "Valve",
+        "developer": "Valve",
+        "criticsScore": "90",
+        "playersScore": "9.1"
+      },
+      {
+        "id": 55,
+        "title": "Resident Evil 4",
+        "publisher": "Capcom",
+        "developer": "Capcom",
+        "criticsScore": "88",
+        "playersScore": "8.7"
+      },
+      {
+        "id": 56,
+        "title": "Mass Effect 2",
+        "publisher": "Electronic Arts",
+        "developer": "BioWare",
+        "criticsScore": "96",
+        "playersScore": "8.6"
+      },
+      {
+        "id": 57,
+        "title": "The Elder Scrolls V: Skyrim",
+        "publisher": "Bethesda",
+        "developer": "Bethesda Game Studios",
+        "criticsScore": "92",
+        "playersScore": "8.4"
+      },
+      {
+        "id": 58,
+        "title": "Portal 2",
+        "publisher": "Valve",
+        "developer": "Valve",
+        "criticsScore": "91",
+        "playersScore": "8.8"
+      },
+      {
+        "id": 59,
+        "title": "Persona 5 Royal",
+        "publisher": "Atlus",
+        "developer": "Atlus",
+        "criticsScore": "89",
+        "playersScore": "8.6"
+      },
+      {
+        "id": 60,
+        "title": "The Witcher 3: Wild Hunt",
+        "publisher": "CD Projekt",
+        "developer": "CD Projekt Red",
+        "criticsScore": "85",
+        "playersScore": "9.3"
+      }
+    ],
+    "next": "http://localhost:3000/chunk4"
+  },
+  "chunk4": {
+    "games": [
+      {
+        "id": 61,
+        "title": "The Legend of Zelda: Ocarina of Time",
+        "publisher": "Nintendo",
+        "developer": "Nintendo EAD",
+        "criticsScore": "99",
+        "playersScore": "8.8"
+      },
+      {
+        "id": 62,
+        "title": "Tony Hawk's Pro Skater 2",
+        "publisher": "Activision",
+        "developer": "Neversoft",
+        "criticsScore": "95",
+        "playersScore": "8.7"
+      },
+      {
+        "id": 63,
+        "title": "Grand Theft Auto IV",
+        "publisher": "Rockstar Games",
+        "developer": "Rockstar North",
+        "criticsScore": "92",
+        "playersScore": "8.2"
+      },
+      {
+        "id": 64,
+        "title": "SoulCalibur",
+        "publisher": "Namco",
+        "developer": "Project Soul",
+        "criticsScore": "89",
+        "playersScore": "8.4"
+      },
+      {
+        "id": 65,
+        "title": "Super Mario Galaxy",
+        "publisher": "Nintendo",
+        "developer": "Nintendo EAD Tokyo",
+        "criticsScore": "85",
+        "playersScore": "8.7"
+      },
+      {
+        "id": 66,
+        "title": "Super Mario Galaxy 2",
+        "publisher": "Nintendo",
+        "developer": "Nintendo EAD Tokyo",
+        "criticsScore": "97",
+        "playersScore": "8.8"
+      },
+      {
+        "id": 67,
+        "title": "Red Dead Redemption",
+        "publisher": "Rockstar Games",
+        "developer": "Rockstar Studios",
+        "criticsScore": "94",
+        "playersScore": "8.4"
+      },
+      {
+        "id": 68,
+        "title": "Grand Theft Auto V",
+        "publisher": "Rockstar Games",
+        "developer": "Rockstar North",
+        "criticsScore": "91",
+        "playersScore": "7.9"
+      },
+      {
+        "id": 69,
+        "title": "Disco Elysium: The Final Cut",
+        "publisher": "ZA/UM",
+        "developer": "ZA/UM",
+        "criticsScore": "88",
+        "playersScore": "8.6"
+      },
+      {
+        "id": 70,
+        "title": "The Legend of Zelda: Breath of the Wild",
+        "publisher": "Nintendo",
+        "developer": "Nintendo EPD",
+        "criticsScore": "85",
+        "playersScore": "8.4"
+      },
+      {
+        "id": 71,
+        "title": "Metroid Prime",
+        "publisher": "Nintendo",
+        "developer": "Retro Studios",
+        "criticsScore": "97",
+        "playersScore": "8.7"
+      },
+      {
+        "id": 72,
+        "title": "Perfect Dark",
+        "publisher": "Nintendo",
+        "developer": "Rare",
+        "criticsScore": "94",
+        "playersScore": "8.1"
+      },
+      {
+        "id": 73,
+        "title": "BioShock",
+        "publisher": "2K Games",
+        "developer": "Irrational Games",
+        "criticsScore": "90",
+        "playersScore": "8.6"
+      },
+      {
+        "id": 74,
+        "title": "Half-Life 2",
+        "publisher": "Valve",
+        "developer": "Valve",
+        "criticsScore": "87",
+        "playersScore": "8.9"
+      },
+      {
+        "id": 75,
+        "title": "Resident Evil",
+        "publisher": "Capcom",
+        "developer": "Capcom",
+        "criticsScore": "84",
+        "playersScore": "8.7"
+      },
+      {
+        "id": 76,
+        "title": "Mass Effect 2",
+        "publisher": "Electronic Arts",
+        "developer": "BioWare",
+        "criticsScore": "96",
+        "playersScore": "8.5"
+      },
+      {
+        "id": 77,
+        "title": "The Elder Scrolls V: Skyrim",
+        "publisher": "Bethesda",
+        "developer": "Bethesda Game Studios",
+        "criticsScore": "91",
+        "playersScore": "8.2"
+      },
+      {
+        "id": 78,
+        "title": "Portal 2",
+        "publisher": "Valve",
+        "developer": "Valve",
+        "criticsScore": "89",
+        "playersScore": "8.8"
+      },
+      {
+        "id": 79,
+        "title": "Persona 5 Royal",
+        "publisher": "Atlus",
+        "developer": "Atlus",
+        "criticsScore": "86",
+        "playersScore": "8.5"
+      },
+      {
+        "id": 80,
+        "title": "The Witcher 3: Wild Hunt",
+        "publisher": "CD Projekt",
+        "developer": "CD Projekt Red",
+        "criticsScore": "81",
+        "playersScore": "9.1"
+      }
+    ],
+    "next": "http://localhost:3000/chunk5"
+  },
+  "chunk5": {
+    "games": [
+      {
+        "id": 81,
+        "title": "The Legend of Zelda: Ocarina of Time",
+        "publisher": "Nintendo",
+        "developer": "Nintendo EAD",
+        "criticsScore": "99",
+        "playersScore": "8.8"
+      },
+      {
+        "id": 82,
+        "title": "Tony Hawk's Pro Skater 2",
+        "publisher": "Activision",
+        "developer": "Neversoft",
+        "criticsScore": "94",
+        "playersScore": "8.6"
+      },
+      {
+        "id": 83,
+        "title": "Grand Theft Auto IV",
+        "publisher": "Rockstar Games",
+        "developer": "Rockstar North",
+        "criticsScore": "90",
+        "playersScore": "7.9"
+      },
+      {
+        "id": 84,
+        "title": "SoulCalibur 4",
+        "publisher": "Namco",
+        "developer": "Project Soul",
+        "criticsScore": "86",
+        "playersScore": "8.4"
+      },
+      {
+        "id": 85,
+        "title": "Super Mario Galaxy ",
+        "publisher": "Nintendo",
+        "developer": "Nintendo EAD Tokyo",
+        "criticsScore": "81",
+        "playersScore": "8.6"
+      },
+      {
+        "id": 86,
+        "title": "Super Mario Galaxy 2",
+        "publisher": "Nintendo",
+        "developer": "Nintendo EAD Tokyo",
+        "criticsScore": "97",
+        "playersScore": "8.6"
+      },
+      {
+        "id": 87,
+        "title": "Red Dead Redemption 2",
+        "publisher": "Rockstar Games",
+        "developer": "Rockstar Studios",
+        "criticsScore": "93",
+        "playersScore": "8.4"
+      },
+      {
+        "id": 88,
+        "title": "Grand Theft Auto V",
+        "publisher": "Rockstar Games",
+        "developer": "Rockstar North",
+        "criticsScore": "89",
+        "playersScore": "7.8"
+      },
+      {
+        "id": 89,
+        "title": "Disco Elysium: The Final Cut",
+        "publisher": "ZA/UM",
+        "developer": "ZA/UM",
+        "criticsScore": "85",
+        "playersScore": "8.4"
+      },
+      {
+        "id": 90,
+        "title": "The Legend of Zelda: Breath of the Wild",
+        "publisher": "Nintendo",
+        "developer": "Nintendo EPD",
+        "criticsScore": "81",
+        "playersScore": "8.4"
+      },
+      {
+        "id": 91,
+        "title": "Metroid Prime",
+        "publisher": "Nintendo",
+        "developer": "Retro Studios",
+        "criticsScore": "97",
+        "playersScore": "8.6"
+      },
+      {
+        "id": 92,
+        "title": "Perfect Dark",
+        "publisher": "Nintendo",
+        "developer": "Rare",
+        "criticsScore": "93",
+        "playersScore": "7.8"
+      },
+      {
+        "id": 93,
+        "title": "BioShock",
+        "publisher": "2K Games",
+        "developer": "Irrational Games",
+        "criticsScore": "88",
+        "playersScore": "8.6"
+      },
+      {
+        "id": 94,
+        "title": "Half-Life 2",
+        "publisher": "Valve",
+        "developer": "Valve",
+        "criticsScore": "84",
+        "playersScore": "8.8"
+      },
+      {
+        "id": 95,
+        "title": "Resident Evil 4",
+        "publisher": "Capcom",
+        "developer": "Capcom",
+        "criticsScore": "80",
+        "playersScore": "8.5"
+      },
+      {
+        "id": 96,
+        "title": "Mass Effect 2",
+        "publisher": "Electronic Arts",
+        "developer": "BioWare",
+        "criticsScore": "96",
+        "playersScore": "8.5"
+      },
+      {
+        "id": 97,
+        "title": "The Elder Scrolls V: Skyrim",
+        "publisher": "Bethesda",
+        "developer": "Bethesda Game Studios",
+        "criticsScore": "90",
+        "playersScore": "8.1"
+      },
+      {
+        "id": 98,
+        "title": "Portal 2",
+        "publisher": "Valve",
+        "developer": "Valve",
+        "criticsScore": "87",
+        "playersScore": "8.6"
+      },
+      {
+        "id": 99,
+        "title": "Persona 5 Royal",
+        "publisher": "Atlus",
+        "developer": "Atlus",
+        "criticsScore": "83",
+        "playersScore": "8.5"
+      },
+      {
+        "id": 100,
+        "title": "The Witcher 3: Wild Hunt",
+        "publisher": "CD Projekt",
+        "developer": "CD Projekt Red",
+        "criticsScore": "77",
+        "playersScore": "9.0"
+      }
+    ],
+    "next": "http://localhost:3000/chunk6"
+  },
+  "chunk6": {
+    "games": [
+      {
+        "id": 101,
+        "title": "The Legend of Zelda: Ocarina of Time",
+        "publisher": "Nintendo",
+        "developer": "Nintendo EAD",
+        "criticsScore": "99",
+        "playersScore": "8.6"
+      },
+      {
+        "id": 102,
+        "title": "Tony Hawk's Pro Skater",
+        "publisher": "Activision",
+        "developer": "Neversoft",
+        "criticsScore": "93",
+        "playersScore": "8.6"
+      },
+      {
+        "id": 103,
+        "title": "Grand Theft Auto IV",
+        "publisher": "Rockstar Games",
+        "developer": "Rockstar North",
+        "criticsScore": "88",
+        "playersScore": "7.8"
+      },
+      {
+        "id": 104,
+        "title": "SoulCalibur",
+        "publisher": "Namco",
+        "developer": "Project Soul",
+        "criticsScore": "83",
+        "playersScore": "8.2"
+      },
+      {
+        "id": 105,
+        "title": "Super Mario Galaxy",
+        "publisher": "Nintendo",
+        "developer": "Nintendo EAD Tokyo",
+        "criticsScore": "77",
+        "playersScore": "8.6"
+      },
+      {
+        "id": 106,
+        "title": "Super Mario Galaxy 2",
+        "publisher": "Nintendo",
+        "developer": "Nintendo EAD Tokyo",
+        "criticsScore": "97",
+        "playersScore": "8.5"
+      },
+      {
+        "id": 107,
+        "title": "Red Dead Redemption7",
+        "publisher": "Rockstar Games",
+        "developer": "Rockstar Studios",
+        "criticsScore": "92",
+        "playersScore": "8.2"
+      },
+      {
+        "id": 108,
+        "title": "Grand Theft Auto V",
+        "publisher": "Rockstar Games",
+        "developer": "Rockstar North",
+        "criticsScore": "87",
+        "playersScore": "7.8"
+      },
+      {
+        "id": 109,
+        "title": "Disco Elysium: The Final Cut9",
+        "publisher": "ZA/UM",
+        "developer": "ZA/UM",
+        "criticsScore": "82",
+        "playersScore": "8.3"
+      },
+      {
+        "id": 110,
+        "title": "The Legend of Zelda: Breath of the Wild",
+        "publisher": "Nintendo",
+        "developer": "Nintendo EPD",
+        "criticsScore": "77",
+        "playersScore": "8.2"
+      },
+      {
+        "id": 111,
+        "title": "Metroid Prime",
+        "publisher": "Nintendo",
+        "developer": "Retro Studios",
+        "criticsScore": "97",
+        "playersScore": "8.6"
+      },
+      {
+        "id": 112,
+        "title": "Perfect Dark",
+        "publisher": "Nintendo",
+        "developer": "Rare",
+        "criticsScore": "92",
+        "playersScore": "7.7"
+      },
+      {
+        "id": 113,
+        "title": "BioShock",
+        "publisher": "2K Games",
+        "developer": "Irrational Games",
+        "criticsScore": "86",
+        "playersScore": "8.4"
+      },
+      {
+        "id": 114,
+        "title": "Half-Life 2",
+        "publisher": "Valve",
+        "developer": "Valve",
+        "criticsScore": "81",
+        "playersScore": "8.8"
+      },
+      {
+        "id": 115,
+        "title": "Resident Evil 4",
+        "publisher": "Capcom",
+        "developer": "Capcom",
+        "criticsScore": "76",
+        "playersScore": "8.4"
+      },
+      {
+        "id": 116,
+        "title": "Mass Effect 2",
+        "publisher": "Electronic Arts",
+        "developer": "BioWare",
+        "criticsScore": "96",
+        "playersScore": "8.3"
+      },
+      {
+        "id": 117,
+        "title": "The Elder Scrolls V: Skyrim ",
+        "publisher": "Bethesda",
+        "developer": "Bethesda Game Studios",
+        "criticsScore": "89",
+        "playersScore": "8.1"
+      },
+      {
+        "id": 118,
+        "title": "Portal 2 ",
+        "publisher": "Valve",
+        "developer": "Valve",
+        "criticsScore": "85",
+        "playersScore": "8.5"
+      },
+      {
+        "id": 119,
+        "title": "Persona 5 Royal ",
+        "publisher": "Atlus",
+        "developer": "Atlus",
+        "criticsScore": "80",
+        "playersScore": "8.3"
+      },
+      {
+        "id": 120,
+        "title": "The Witcher 3: Wild Hunt",
+        "publisher": "CD Projekt",
+        "developer": "CD Projekt Red",
+        "criticsScore": "73",
+        "playersScore": "9.0"
+      }
+    ],
+    "next": "http://localhost:3000/chunk7"
+  },
+  "chunk7": {
+    "games": [
+      {
+        "id": 121,
+        "title": "The Legend of Zelda: Ocarina of Time",
+        "publisher": "Nintendo",
+        "developer": "Nintendo EAD",
+        "criticsScore": "99",
+        "playersScore": "8.5"
+      },
+      {
+        "id": 122,
+        "title": "Tony Hawk's Pro Skater 2",
+        "publisher": "Activision",
+        "developer": "Neversoft",
+        "criticsScore": "92",
+        "playersScore": "8.4"
+      },
+      {
+        "id": 123,
+        "title": "Grand Theft Auto IV",
+        "publisher": "Rockstar Games",
+        "developer": "Rockstar North",
+        "criticsScore": "86",
+        "playersScore": "7.8"
+      },
+      {
+        "id": 124,
+        "title": "SoulCalibur",
+        "publisher": "Namco",
+        "developer": "Project Soul",
+        "criticsScore": "80",
+        "playersScore": "8.1"
+      },
+      {
+        "id": 125,
+        "title": "Super Mario Galaxy",
+        "publisher": "Nintendo",
+        "developer": "Nintendo EAD Tokyo",
+        "criticsScore": "73",
+        "playersScore": "8.4"
+      },
+      {
+        "id": 126,
+        "title": "Super Mario Galaxy 2",
+        "publisher": "Nintendo",
+        "developer": "Nintendo EAD Tokyo",
+        "criticsScore": "97",
+        "playersScore": "8.5"
+      },
+      {
+        "id": 127,
+        "title": "Red Dead Redemption 2",
+        "publisher": "Rockstar Games",
+        "developer": "Rockstar Studios",
+        "criticsScore": "91",
+        "playersScore": "8.1"
+      },
+      {
+        "id": 128,
+        "title": "Grand Theft Auto V",
+        "publisher": "Rockstar Games",
+        "developer": "Rockstar North",
+        "criticsScore": "85",
+        "playersScore": "7.6"
+      },
+      {
+        "id": 129,
+        "title": "Disco Elysium: The Final Cut",
+        "publisher": "ZA/UM",
+        "developer": "ZA/UM",
+        "criticsScore": "79",
+        "playersScore": "8.3"
+      },
+      {
+        "id": 130,
+        "title": "The Legend of Zelda: Breath of the Wild",
+        "publisher": "Nintendo",
+        "developer": "Nintendo EPD",
+        "criticsScore": "73",
+        "playersScore": "8.1"
+      },
+      {
+        "id": 131,
+        "title": "Metroid Prime",
+        "publisher": "Nintendo",
+        "developer": "Retro Studios",
+        "criticsScore": "97",
+        "playersScore": "8.4"
+      },
+      {
+        "id": 132,
+        "title": "Perfect Dark",
+        "publisher": "Nintendo",
+        "developer": "Rare",
+        "criticsScore": "91",
+        "playersScore": "7.7"
+      },
+      {
+        "id": 133,
+        "title": "BioShock",
+        "publisher": "2K Games",
+        "developer": "Irrational Games",
+        "criticsScore": "84",
+        "playersScore": "8.3"
+      },
+      {
+        "id": 134,
+        "title": "Half-Life 2",
+        "publisher": "Valve",
+        "developer": "Valve",
+        "criticsScore": "78",
+        "playersScore": "8.6"
+      },
+      {
+        "id": 135,
+        "title": "Resident Evil 4",
+        "publisher": "Capcom",
+        "developer": "Capcom",
+        "criticsScore": "72",
+        "playersScore": "8.4"
+      },
+      {
+        "id": 136,
+        "title": "Mass Effect 2",
+        "publisher": "Electronic Arts",
+        "developer": "BioWare",
+        "criticsScore": "96",
+        "playersScore": "8.2"
+      },
+      {
+        "id": 137,
+        "title": "The Elder Scrolls V: Skyrim",
+        "publisher": "Bethesda",
+        "developer": "Bethesda Game Studios",
+        "criticsScore": "88",
+        "playersScore": "7.8"
+      },
+      {
+        "id": 138,
+        "title": "Portal 2",
+        "publisher": "Valve",
+        "developer": "Valve",
+        "criticsScore": "83",
+        "playersScore": "8.5"
+      },
+      {
+        "id": 139,
+        "title": "Persona 5 Royal",
+        "publisher": "Atlus",
+        "developer": "Atlus",
+        "criticsScore": "77",
+        "playersScore": "8.2"
+      },
+      {
+        "id": 140,
+        "title": "The Witcher 3: Wild Hunt",
+        "publisher": "CD Projekt",
+        "developer": "CD Projekt Red",
+        "criticsScore": "69",
+        "playersScore": "8.8"
+      }
+    ],
+    "next": "http://localhost:3000/chunk8"
+  },
+  "chunk8": {
+    "games": [
+      {
+        "id": 141,
+        "title": "The Legend of Zelda: Ocarina of Time",
+        "publisher": "Nintendo",
+        "developer": "Nintendo EAD",
+        "criticsScore": "99",
+        "playersScore": "8.5"
+      },
+      {
+        "id": 142,
+        "title": "Tony Hawk's Pro Skater 2",
+        "publisher": "Activision",
+        "developer": "Neversoft",
+        "criticsScore": "91",
+        "playersScore": "8.3"
+      },
+      {
+        "id": 143,
+        "title": "Grand Theft Auto IV",
+        "publisher": "Rockstar Games",
+        "developer": "Rockstar North",
+        "criticsScore": "84",
+        "playersScore": "7.6"
+      },
+      {
+        "id": 144,
+        "title": "SoulCalibur 4",
+        "publisher": "Namco",
+        "developer": "Project Soul",
+        "criticsScore": "77",
+        "playersScore": "8.1"
+      },
+      {
+        "id": 145,
+        "title": "Super Mario Galaxy",
+        "publisher": "Nintendo",
+        "developer": "Nintendo EAD Tokyo",
+        "criticsScore": "69",
+        "playersScore": "8.3"
+      },
+      {
+        "id": 146,
+        "title": "Super Mario Galaxy 2",
+        "publisher": "Nintendo",
+        "developer": "Nintendo EAD Tokyo",
+        "criticsScore": "97",
+        "playersScore": "8.3"
+      },
+      {
+        "id": 147,
+        "title": "Red Dead Redemption 2",
+        "publisher": "Rockstar Games",
+        "developer": "Rockstar Studios",
+        "criticsScore": "90",
+        "playersScore": "8.1"
+      },
+      {
+        "id": 148,
+        "title": "Grand Theft Auto V",
+        "publisher": "Rockstar Games",
+        "developer": "Rockstar North",
+        "criticsScore": "83",
+        "playersScore": "7.5"
+      },
+      {
+        "id": 149,
+        "title": "Disco Elysium: The Final Cut",
+        "publisher": "ZA/UM",
+        "developer": "ZA/UM",
+        "criticsScore": "76",
+        "playersScore": "8.1"
+      },
+      {
+        "id": 150,
+        "title": "The Legend of Zelda: Breath of the Wild ",
+        "publisher": "Nintendo",
+        "developer": "Nintendo EPD",
+        "criticsScore": "69",
+        "playersScore": "8.1"
+      },
+      {
+        "id": 151,
+        "title": "Metroid Prime",
+        "publisher": "Nintendo",
+        "developer": "Retro Studios",
+        "criticsScore": "97",
+        "playersScore": "8.3"
+      },
+      {
+        "id": 152,
+        "title": "Perfect Dark",
+        "publisher": "Nintendo",
+        "developer": "Rare",
+        "criticsScore": "90",
+        "playersScore": "7.5"
+      },
+      {
+        "id": 153,
+        "title": "BioShock",
+        "publisher": "2K Games",
+        "developer": "Irrational Games",
+        "criticsScore": "82",
+        "playersScore": "8.3"
+      },
+      {
+        "id": 154,
+        "title": "Half-Life 2",
+        "publisher": "Valve",
+        "developer": "Valve",
+        "criticsScore": "75",
+        "playersScore": "8.5"
+      },
+      {
+        "id": 155,
+        "title": "Resident Evil 4",
+        "publisher": "Capcom",
+        "developer": "Capcom",
+        "criticsScore": "68",
+        "playersScore": "8.2"
+      },
+      {
+        "id": 156,
+        "title": "Mass Effect 2",
+        "publisher": "Electronic Arts",
+        "developer": "BioWare",
+        "criticsScore": "96",
+        "playersScore": "8.2"
+      },
+      {
+        "id": 157,
+        "title": "The Elder Scrolls V: Skyrim",
+        "publisher": "Bethesda",
+        "developer": "Bethesda Game Studios",
+        "criticsScore": "87",
+        "playersScore": "7.7"
+      },
+      {
+        "id": 158,
+        "title": "Portal 2",
+        "publisher": "Valve",
+        "developer": "Valve",
+        "criticsScore": "81",
+        "playersScore": "8.3"
+      },
+      {
+        "id": 159,
+        "title": "Persona 5 Royal",
+        "publisher": "Atlus",
+        "developer": "Atlus",
+        "criticsScore": "74",
+        "playersScore": "8.2"
+      },
+      {
+        "id": 160,
+        "title": "The Witcher 3: Wild Hunt",
+        "publisher": "CD Projekt",
+        "developer": "CD Projekt Red",
+        "criticsScore": "65",
+        "playersScore": "8.7"
+      }
+    ],
+    "next": "http://localhost:3000/chunk9"
+  },
+  "chunk9": {
+    "games": [
+      {
+        "id": 161,
+        "title": "The Legend of Zelda: Ocarina of Time",
+        "publisher": "Nintendo",
+        "developer": "Nintendo EAD",
+        "criticsScore": "99",
+        "playersScore": "8.3"
+      },
+      {
+        "id": 162,
+        "title": "Tony Hawk's Pro Skater",
+        "publisher": "Activision",
+        "developer": "Neversoft",
+        "criticsScore": "90",
+        "playersScore": "8.3"
+      },
+      {
+        "id": 163,
+        "title": "Grand Theft Auto IV",
+        "publisher": "Rockstar Games",
+        "developer": "Rockstar North",
+        "criticsScore": "82",
+        "playersScore": "7.5"
+      },
+      {
+        "id": 164,
+        "title": "SoulCalibur 4",
+        "publisher": "Namco",
+        "developer": "Project Soul",
+        "criticsScore": "74",
+        "playersScore": "7.8"
+      },
+      {
+        "id": 165,
+        "title": "Super Mario Galaxy 5",
+        "publisher": "Nintendo",
+        "developer": "Nintendo EAD Tokyo",
+        "criticsScore": "65",
+        "playersScore": "8.3"
+      },
+      {
+        "id": 166,
+        "title": "Super Mario Galaxy 2",
+        "publisher": "Nintendo",
+        "developer": "Nintendo EAD Tokyo",
+        "criticsScore": "97",
+        "playersScore": "8.2"
+      },
+      {
+        "id": 167,
+        "title": "Red Dead Redemption ",
+        "publisher": "Rockstar Games",
+        "developer": "Rockstar Studios",
+        "criticsScore": "89",
+        "playersScore": "7.8"
+      },
+      {
+        "id": 168,
+        "title": "Grand Theft Auto V ",
+        "publisher": "Rockstar Games",
+        "developer": "Rockstar North",
+        "criticsScore": "81",
+        "playersScore": "7.5"
+      },
+      {
+        "id": 169,
+        "title": "Disco Elysium: The Final Cut",
+        "publisher": "ZA/UM",
+        "developer": "ZA/UM",
+        "criticsScore": "73",
+        "playersScore": "8.0"
+      },
+      {
+        "id": 170,
+        "title": "The Legend of Zelda: Breath of the Wild",
+        "publisher": "Nintendo",
+        "developer": "Nintendo EPD",
+        "criticsScore": "65",
+        "playersScore": "7.8"
+      },
+      {
+        "id": 171,
+        "title": "Metroid Prime",
+        "publisher": "Nintendo",
+        "developer": "Retro Studios",
+        "criticsScore": "97",
+        "playersScore": "8.3"
+      },
+      {
+        "id": 172,
+        "title": "Perfect Dark ",
+        "publisher": "Nintendo",
+        "developer": "Rare",
+        "criticsScore": "89",
+        "playersScore": "7.4"
+      },
+      {
+        "id": 173,
+        "title": "BioShock",
+        "publisher": "2K Games",
+        "developer": "Irrational Games",
+        "criticsScore": "80",
+        "playersScore": "8.1"
+      },
+      {
+        "id": 174,
+        "title": "Half-Life 2",
+        "publisher": "Valve",
+        "developer": "Valve",
+        "criticsScore": "72",
+        "playersScore": "8.5"
+      },
+      {
+        "id": 175,
+        "title": "Resident Evil 4",
+        "publisher": "Capcom",
+        "developer": "Capcom",
+        "criticsScore": "64",
+        "playersScore": "8.1"
+      },
+      {
+        "id": 176,
+        "title": "Mass Effect 2 ",
+        "publisher": "Electronic Arts",
+        "developer": "BioWare",
+        "criticsScore": "96",
+        "playersScore": "7.9"
+      },
+      {
+        "id": 177,
+        "title": "The Elder Scrolls V: Skyrim ",
+        "publisher": "Bethesda",
+        "developer": "Bethesda Game Studios",
+        "criticsScore": "86",
+        "playersScore": "7.7"
+      },
+      {
+        "id": 178,
+        "title": "Portal 2",
+        "publisher": "Valve",
+        "developer": "Valve",
+        "criticsScore": "79",
+        "playersScore": "8.2"
+      },
+      {
+        "id": 179,
+        "title": "Persona 5 Royal",
+        "publisher": "Atlus",
+        "developer": "Atlus",
+        "criticsScore": "71",
+        "playersScore": "7.9"
+      },
+      {
+        "id": 180,
+        "title": "The Witcher 3: Wild Hunt",
+        "publisher": "CD Projekt",
+        "developer": "CD Projekt Red",
+        "criticsScore": "61",
+        "playersScore": "8.7"
+      }
+    ],
+    "next": "http://localhost:3000/chunk10"
+  },
+  "chunk10": {
+    "games": [
+      {
+        "id": 181,
+        "title": "The Legend of Zelda: Ocarina of Time 1 ",
+        "publisher": "Nintendo",
+        "developer": "Nintendo EAD",
+        "criticsScore": "99",
+        "playersScore": "8.2"
+      },
+      {
+        "id": 182,
+        "title": "Tony Hawk's Pro Skater 2",
+        "publisher": "Activision",
+        "developer": "Neversoft",
+        "criticsScore": "89",
+        "playersScore": "8.1"
+      },
+      {
+        "id": 183,
+        "title": "Grand Theft Auto IV",
+        "publisher": "Rockstar Games",
+        "developer": "Rockstar North",
+        "criticsScore": "80",
+        "playersScore": "7.5"
+      },
+      {
+        "id": 184,
+        "title": "SoulCalibur 4 ",
+        "publisher": "Namco",
+        "developer": "Project Soul",
+        "criticsScore": "71",
+        "playersScore": "7.7"
+      },
+      {
+        "id": 185,
+        "title": "Super Mario Galaxy 5 ",
+        "publisher": "Nintendo",
+        "developer": "Nintendo EAD Tokyo",
+        "criticsScore": "61",
+        "playersScore": "8.1"
+      },
+      {
+        "id": 186,
+        "title": "Super Mario Galaxy 2",
+        "publisher": "Nintendo",
+        "developer": "Nintendo EAD Tokyo",
+        "criticsScore": "97",
+        "playersScore": "8.2"
+      },
+      {
+        "id": 187,
+        "title": "Red Dead Redemption 2 ",
+        "publisher": "Rockstar Games",
+        "developer": "Rockstar Studios",
+        "criticsScore": "88",
+        "playersScore": "7.7"
+      },
+      {
+        "id": 188,
+        "title": "Grand Theft Auto V ",
+        "publisher": "Rockstar Games",
+        "developer": "Rockstar North",
+        "criticsScore": "79",
+        "playersScore": "7.3"
+      },
+      {
+        "id": 189,
+        "title": "Disco Elysium: The Final Cut ",
+        "publisher": "ZA/UM",
+        "developer": "ZA/UM",
+        "criticsScore": "70",
+        "playersScore": "8.0"
+      }
+    ],
+    "next": null
+  }
+}
