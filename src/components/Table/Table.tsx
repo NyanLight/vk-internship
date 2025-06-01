@@ -9,9 +9,9 @@ interface Entry {
 export function Table({ url }: { url: string }) {
   const [entries, setEntries] = useState<null | Entry[]>(null);
   const [error, setError] = useState<null | string>(null);
-  const [loading, setLoading] = useState(true);
+  const [loading, setLoading] = useState<boolean>(true);
   const [next, setNext] = useState<null | string>(null);
-  const [hasMore, setHasMore] = useState(true);
+  const [hasMore, setHasMore] = useState<boolean>(true);
 
   const fetchData = async (url: string) => {
     try {
@@ -50,7 +50,9 @@ export function Table({ url }: { url: string }) {
   if (loading) return <div>Loading...</div>;
 
   if (entries) {
-    const headings = Object.keys(entries[0]).filter((key) => key !== "id");
+    const headings = Object.keys(entries[0])
+      .filter((key) => key !== "id")
+      .slice(0, 15);
 
     return (
       <InfiniteScroll
@@ -78,7 +80,7 @@ export function Table({ url }: { url: string }) {
               return (
                 <tr className={styles.row}>
                   {Object.entries(entry).map((field) => {
-                    if (field[0] !== "id")
+                    if (headings.includes(field[0]))
                       return <td className={styles.data}>{field[1]}</td>;
                   })}
                 </tr>
