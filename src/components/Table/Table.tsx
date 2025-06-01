@@ -46,11 +46,11 @@ export const Table = observer(({ url }: { url: string }) => {
           </thead>
           <tbody>
             {entriesStore.entries.map((entry) => (
-              <tr className={styles.row} key={entry.id}>
+              <tr className={styles.row}>
                 {Object.entries(entry).map((field) => {
                   if (headings.includes(field[0]))
                     return (
-                      <td className={styles.data} key={field[0]}>
+                      <td className={styles.data}>
                         {field[1]}
                       </td>
                     );
