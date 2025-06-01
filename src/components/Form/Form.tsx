@@ -1,16 +1,17 @@
-import { useState, type FormEvent } from "react";
+import { useState, type FormEvent, useRef } from "react";
 import { observer } from "mobx-react-lite";
 import styles from "./Form.module.css";
 import { entriesStore } from "../../EntriesStore";
 
 export const Form = observer(() => {
   const [loading, setLoading] = useState(false);
+  const formRef = useRef<HTMLFormElement>(null);
 
   const handleSubmit = async (e: FormEvent<HTMLFormElement>) => {
     e.preventDefault();
     setLoading(true);
 
-    const formData = new FormData(e.currentTarget);
+    const formData = new FormData(e.currentTarget || formRef.current!);
     const newEntry: { [key: string]: string } = {};
 
     fields.forEach((field) => {
@@ -41,6 +42,8 @@ export const Form = observer(() => {
 
       const createdEntry = await response.json();
       entriesStore.addEntries([createdEntry]);
+
+      if (formRef.current) formRef.current.reset();
     } catch (error) {
       console.error("Failed to submit:", error);
     } finally {
@@ -60,7 +63,7 @@ export const Form = observer(() => {
   if (fields.length === 0) return <div>Waiting for fields...</div>;
 
   return (
-    <form className={styles.form} onSubmit={handleSubmit}>
+    <form className={styles.form} onSubmit={handleSubmit} ref={formRef}>
       <div className={styles.fields}>
         {fields.map((field) => (
           <div key={field} className={styles.field}>
