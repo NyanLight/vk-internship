@@ -1,11 +1,14 @@
-import { useState, type FormEvent, useRef } from "react";
+import { type FormEvent } from "react";
 import { observer } from "mobx-react-lite";
 import styles from "./Form.module.css";
-import { entriesStore } from "../../EntriesStore";
+import { useFormFields } from "../../hooks/useFormFields";
+import { useFormState } from "../../hooks/useFormState";
+import { useApiSubmit } from "../../hooks/useApiSubmit";
 
 export const Form = observer(() => {
-  const [loading, setLoading] = useState(false);
-  const formRef = useRef<HTMLFormElement>(null);
+  const fields = useFormFields();
+  const { loading, setLoading, formRef, resetForm } = useFormState();
+  const { submitForm } = useApiSubmit("http://localhost:3000/chunk10/games");
 
   const handleSubmit = async (e: FormEvent<HTMLFormElement>) => {
     e.preventDefault();
@@ -28,37 +31,14 @@ export const Form = observer(() => {
     newEntry.id = Date.now().toString();
 
     try {
-      const response = await fetch("http://localhost:3000/chunk10/games", {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify(newEntry),
-      });
-
-      if (!response.ok) {
-        throw new Error(`Response status: ${response.status}`);
-      }
-
-      const createdEntry = await response.json();
-      entriesStore.addEntries([createdEntry]);
-
-      if (formRef.current) formRef.current.reset();
+      await submitForm(newEntry);
+      resetForm();
     } catch (error) {
-      console.error("Failed to submit:", error);
+      console.error(error);
     } finally {
       setLoading(false);
     }
   };
-
-  const fields: string[] = [];
-
-  if (entriesStore.entries) {
-    const entry = entriesStore.entries[0];
-    Object.keys(entry).forEach((key) => {
-      if (key !== "id") fields.push(key);
-    });
-  }
 
   if (fields.length === 0) return <div>Waiting for fields...</div>;
 
