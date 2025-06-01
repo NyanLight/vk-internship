@@ -1,4 +1,4 @@
-import { entriesStore } from "../EntiresStore";
+import { entriesStore } from "../EntriesStore";
 
 interface InfiniteScrollProps {
   next: string | null;

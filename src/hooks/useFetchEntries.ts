@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { entriesStore } from "../EntiresStore"; 
+import { entriesStore } from "../EntriesStore"; 
 
 interface FetchEntriesResult {
   error: string | null;
